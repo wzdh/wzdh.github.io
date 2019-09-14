@@ -370,7 +370,7 @@ href="http://dict.cn/" target="_blank"><font color="#0000FF">在线词典</font>
           <td><div align="center"> <a href="http://www.qq.com" target="_blank">腾讯</a> <a href="http://qqgame.qq.com/download.shtml" target="_blank">QQ大厅</a> <a href="http://wp.qq.com/" target="_blank"><font color="#0000FF">在线状态</font></a></div></td>
           <td><div align="center"> <a href="http://ic.qq.com/" target="_blank"><font color="#0000FF">QQ同步助手</font></a> <a href="http://www.china.com" target="_blank">中 华 网</a></div></td>        </tr>
         <tr bgcolor="#FFFFFF">
-          <td><div align="center"><a href="http://www.xinhuanet.com" target="_blank"><font color="blue">新 华 网</font></a></div></td>
+          <td><div align="center"><a href="http://www.xinhuanet.com" target="_blank"><font color="blue">新 华 网</font></a> <a href="https://www.toolsdaquan.com/" target="_blank"><font color="Magenta"><strong>Tools大全</strong></font></a></div></td>
           <td><div align="center"><a href="http://www.people.com.cn/" target="_blank"><font color="#0000FF">人民网</font></a> <a href="http://www.cs.com.cn/" target="_blank"><font color="red">中证网</font></a></div></td>
           <td><div align="center"><a href="http://cn.yahoo.com/?id=40084" target="_blank"><font color="#F4750">中国雅虎</font></a> <a href="http://cctv.cntv.cn/lm/shichangfenxishi/index.shtml" target="_blank"><font color="blue">市场分析室</font></a></div></td>
           <td><div align="center"><a href="http://cn.msn.com/" target="_blank"><font color="#F4750">MSN网</font></a> <a href="http://so.video.sina.com.cn/s?wd=%E3%80%8A%E5%A4%A9%E4%B8%8B%E8%B4%A2%E7%BB%8F%E4%B9%8B%E6%8A%95%E8%B5%84%E8%80%85%E8%AF%B4%E3%80%8B" target="_blank"><font color="blue">投资者说</font></a> <a href="http://51dingfang.info/" target="_blank"><font color="#990066">Blog</font></a></div></td>
@@ -2454,7 +2454,7 @@ href="http://dict.cn/" target="_blank"><font color="#0000FF">在线词典</font>
             <td align="center" valign="middle"><div align="center"><a href="https://www.ipip.net/ip.html" target="_blank"><font color="#FF0000">IPIP.net</font></a> <a href="https://tools.ipip.net/traceroute.php" target="_blank">Rt</a> <a href="http://ip.soshoulu.com/" target="_blank"><font color="#0000FF">soshoulu</font></a></div></td>
             <td align="center" valign="middle"><div align="center"><a href="https://www.v2ex.com/" target="_blank"><font color="#FF0000">V2EX</font></a> <a href="https://www.right.com.cn/forum/" target="_blank"><font color="#FF0000">恩山论坛</font></a></div></td>
             <td align="center" valign="middle"><div align="center"><a href="https://www.knowroaming.co" target="_blank"><font color="#0000FF">KnowRoaming</font></a></div></td>
-            <td align="center" valign="middle"><div align="center"></div></td>
+            <td align="center" valign="middle"><div align="center"><a href="https://www.toolsdaquan.com/ipcheck/" target="_blank"><font color="#0000FF">Tools大全IP检测</font></a></div></td>
           </tr>
           <tr bgcolor="#FFFFFF">
             <td align="center" valign="middle"><div align="center"><a href="http://free-proxy.cz/zh/proxylist/country/CN/socks5/ping/all" target="_blank"><font color="#FF0000">Free-Proxy</font></a> <a href="https://proxyscrape.com/free-proxy-list" target="_blank"><font color="#0000FF">Socks5List</font></a></div></td>
@@ -2559,12 +2559,53 @@ href="http://dict.cn/" target="_blank"><font color="#0000FF">在线词典</font>
 193.112.216.49:21071<br>
 193.112.248.155:21071<br>
 <br>
-<strong>35.240 以上GCP IP 对中国移动宽带线路友好。</strong><br>
+<strong>35.240 以上GCP IP 对中国移动宽带线路友好。香港节点ip34.92支持NetFlix，电信线路4K高清非常流畅</strong><br>
+机器类型: 选微型(一个共享vCPU)<br>
+0.6G内存, 一般加速上网, 看视频, 玩游戏都够用了. 后续也可以更改成小型或更高的.<br>
+启动磁盘: 默认是Debian, 推荐改成CentOS 7.<br>
+以下安装命令都是基于CentOS 7 64位, 如选Debian, Ubuntu等其他系统, 命令会稍有不同, 自行解决：<br>
+<strong>一、安装 BBR PLUS 内核</strong><br>
+1. sudo -i<br>
+2. yum install -y wget<br>
+3. wget --no-check-certificate https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh &amp;&amp; chmod +x tcp.sh<br>
+4. ./tcp.sh<br> 
+<strong>二、重启VPS后，再安装
+BBR plus 加速程序</strong><br>
+        1. sudo -i<br>
+        2. 
+        ./tcp.sh<br>
+        <strong>三、提示安装BBR plus 加速程序成功后，接着安装ShadowsocksR</strong><br>
+        1. wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh &amp;&amp; chmod +x shadowsocksR.sh<br>
+        2. ./shadowsocksR.sh
+<br>
+        <strong>四、提示安装成功，记住以下信息</strong><br>
+        Congratulations, ShadowsocksR server install completed!<br>
+        Your Server IP        :  35.242.200.73 <br>
+        Your Server Port      :  13131 <br>
+        Your Password         :  FuckGFW2019<br>
+        Your Encryption Method:  aes-256-cfb8 <br>
+        Your Protocol         :  origin <br>
+        Your obfs             :  plain<br>
+        <br>
+        <strong>一、查Centos7.3的内核版本,使用命令uname -r</strong><br>
+        1. sudo -i<br>
+        2. uname -r
+        <br>
+        centos7系统大部分内核都是3.10，不能正确安装，所以需要升级<br>
+        <strong>二、执行以下安装命令，安装WireGuard</strong><br>
+1. yum install -y wget &amp;&amp; wget https://makeai.cn/wireguard/wireguard_install.sh &amp;&amp; chmod +x wireguard_install.sh &amp;&amp; ./wireguard_install.sh<br>
+2. 选择 <strong>1 </strong>安装内核（如下图所示），安装过程中需要几分钟，安装过程中不要按任何按键。<br>
+        3. 等几分钟会提示你是否重启服务器，输入 <strong>Y</strong>，然后回车就会重启VPS（如下图所示），同时SSH会自动断开。<br>
+4. 重启完毕后，使用SSH连接工具重新连接VPS，执行下面命令<br>
+# ./wireguard_install.sh<br>
+5. 执行命令后，我们选择 <strong>2 </strong>安装<strong>WireGuard</strong>,安装过程中需要等几分钟，安装完成服务即自行启动了。<br>
+注：安装成功后得到的二维码最好截图保存下，以后要用。<br>
+参考安装教程：<a href="https://www.bbaaz.com/thread-657-1-1.html" target="_blank">https://www.bbaaz.com/thread-657-1-1.html</a><br>
 <br>
         <a href="http://www.qukuai.top/d/212" target="_blank"><font color="#FF0000">数字加密货币国外交易所复杂提现教程</font></a>:基本思路是：<BR>
-你挖的虚拟货币&rarr;BTC&rarr;Payeer&rarr;在Payeer转换成USD&rarr;提取美刀（需要VISA或者MasterCard信用卡）.。
-  <br>
-  <br>
+        你挖的虚拟货币&rarr;BTC&rarr;Payeer&rarr;在Payeer转换成USD&rarr;提取美刀（需要VISA或者MasterCard信用卡）.。
+        <br>
+        <br>
         <span itemprop="text" data-reactid="71">鉴于某些原因，现在比特币等加密货币已经不能直接交易人民币，而直接交易美元等法币由于认证严格及手续繁杂难办的原因也无法进行，所以为了防止比特币的大起大落，在比特币等加密货币大幅下跌的时候可以选择兑换成USDT防止资产大幅缩水，众所周知，USDT最近爆11.19出不少负面消息，如果将比特币兑换成USDT，而USDT如果崩盘，资产会不会归零？</span><br>
         <strong>线上外国人信息生成器:</strong><a href="https://www.fakenamegenerator.com" target="_blank">https://www.fakenamegenerator.com</a>  <a href="http://www.haoweichi.com/" target="_blank">好维持网随机身份信息生成</a></p>
 <h1><a href="https://zhuanlan.zhihu.com/p/31256179" target="_blank">Tether不是美联储，正确认识USDT和它背后的风险</a></h1>
