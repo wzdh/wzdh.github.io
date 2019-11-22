@@ -76,42 +76,74 @@ PersistentKeepalive = 25
 第三步：远程连接：输入sudo su root切换至root账号。
 
 第四步：运行233boy博客的一键安装V2Ray脚本，使用 root 用户输入下面命令安装或卸载V2Ray
+
 bash <(curl -s -L https://git.io/v2ray.sh)
+
 使用tcp传输协议，端口选择33889，其他全部选择N，一路Next，直至安装成功。
+
 选用脚本：bash <(curl -s -L https://233v2.com/v2ray.sh)
 
 第五步：卸载、屏蔽安骑士
 1.首先卸载阿里云安骑士，教程转自：https://www.wn789.com/11468.html
+
 wget http://update.aegis.aliyun.com/download/uninstall.sh && chmod +x uninstall.sh
-./uninstall.sh 
+
+./uninstall.sh
+ 
 wget http://update.aegis.aliyun.com/download/quartz_uninstall.sh && chmod +x quartz_uninstall.sh
+
 ./quartz_uninstall.sh
+
 2.删除残留文件
+
 pkill aliyun-service
+
 rm -fr /etc/init.d/agentwatch /usr/sbin/aliyun-service
+
 rm -rf /usr/local/aegis*
+
 3.屏蔽安骑士 IP
+
 iptables -I INPUT -s 140.205.201.0/28 -j DROP 
-iptables -I INPUT -s 140.205.201.16/29 -j DROP 
-iptables -I INPUT -s 140.205.201.32/28 -j DROP 
-iptables -I INPUT -s 140.205.225.192/29 -j DROP 
-iptables -I INPUT -s 140.205.225.200/30 -j DROP 
-iptables -I INPUT -s 140.205.225.184/29 -j DROP 
-iptables -I INPUT -s 140.205.225.183/32 -j DROP 
-iptables -I INPUT -s 140.205.225.206/32 -j DROP 
-iptables -I INPUT -s 140.205.225.205/32 -j DROP 
-iptables -I INPUT -s 140.205.225.195/32 -j DROP 
+
+iptables -I INPUT -s 140.205.201.16/29 -j DROP
+ 
+iptables -I INPUT -s 140.205.201.32/28 -j DROP
+ 
+iptables -I INPUT -s 140.205.225.192/29 -j DROP
+ 
+iptables -I INPUT -s 140.205.225.200/30 -j DROP
+ 
+iptables -I INPUT -s 140.205.225.184/29 -j DROP
+ 
+iptables -I INPUT -s 140.205.225.183/32 -j DROP
+ 
+iptables -I INPUT -s 140.205.225.206/32 -j DROP
+ 
+iptables -I INPUT -s 140.205.225.205/32 -j DROP
+ 
+iptables -I INPUT -s 140.205.225.195/32 -j DROP
+ 
 iptables -I INPUT -s 140.205.225.204/32 -j DROP
+
 
 第六步：安装BBR +：
 注意：要先选择第2项：安装 BBRplus版内核，然后重启VPS后，再次运行./tcp.sh选择第7项：使用BBRplus版加速
+
 1.sudo su root
+
 2.yum install -y wget
+
 3.wget --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh
+
 4../tcp.sh #注：安装过程中，提示是否中止删除低版本的内核，选择"N"，意思是不中止，让脚本自动删除低版本的内核。
+
 5.reboot   #重启VPS
+
 6.sudo su root
+
 7../tcp.sh
+
 
 第七步：重启VPS，开启FQ愉快之旅。
 
