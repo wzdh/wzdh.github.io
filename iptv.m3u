@@ -1,59 +1,59 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13[Bestv]" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13 8M
 https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
-#EXTINF:-1,CCTV-13[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-13/1.m3u8
-#EXTINF:-1,CCTV-13[cctv.com]
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13[cctv.com]
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1,凤凰中文[960x540]
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港台",凤凰中文[960x540]
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1,凤凰中文[960x540]
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港台",凤凰中文[960x540]
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1,凤凰资讯[960x540]
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港台",凤凰资讯[960x540]
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1,凤凰资讯[960x540]
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港台",凤凰资讯[960x540]
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1,香港卫视[960x540]
+#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港台",香港卫视[960x540]
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1,CCTV-1[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-1/1.m3u8
-#EXTINF:-1,CCTV-2[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-2/1.m3u8
-#EXTINF:-1,CCTV-3[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-3/1.m3u8
-#EXTINF:-1,CCTV-4[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-4/1.m3u8
-#EXTINF:-1,CCTV-5[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-5/1.m3u8
-#EXTINF:-1,CCTV-6[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-6/1.m3u8
-#EXTINF:-1,CCTV-7[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-7/1.m3u8
-#EXTINF:-1,CCTV-8[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-8/1.m3u8
-#EXTINF:-1,CCTV-9[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-9/1.m3u8
-#EXTINF:-1,CCTV-10[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-10/1.m3u8
-#EXTINF:-1,CCTV-11[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-11/1.m3u8
-#EXTINF:-1,CCTV-12[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-12/1.m3u8
-#EXTINF:-1,CCTV-13[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-13/1.m3u8
-#EXTINF:-1,CCTV-13[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13[南昌移动1080P]
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1,CCTV-14[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14[南昌移动 8M]
 http://117.169.124.149:8080/live/HD-8000k-1080P-cctv14/1.m3u8
-#EXTINF:-1,CCTV-14[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14[南昌移动1080P]
 http://117.169.124.149:8080/live/HD-4000k-1080P-cctv14/1.m3u8
-#EXTINF:-1,CCTV-15[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15[南昌移动1080P]
 http://117.169.124.149:8080/live/cctv-15/1.m3u8
-#EXTINF:-1,CCTV-16[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16[南昌移动1080P]
 http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
-#EXTINF:-1,CCTV-16[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16[南昌移动1080P]
 http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
-#EXTINF:-1,CCTV-17[南昌移动1080P]
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17[南昌移动1080P]
 http://117.169.124.149:8080/live/HD-8000k-1080P-cctv17/1.m3u8
 
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
@@ -64,7 +64,7 @@ https://live.v1.mk/api/bestv.php?id=cctv4k/15000000&http://118.24.227.124/tv.liv
 https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K频道",爱上4K
 https://live.v1.mk/aishang/as4k
-#EXTINF:-1,苏州4K频道[2160P]
+#EXTINF:-1,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K频道",苏州4K频道[2160P]
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
 http://159.75.85.63:5680/d/ad/h264/playad.m3u8
