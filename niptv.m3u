@@ -1,0 +1,387 @@
+#EXTM3U
+#EXTINF:-1,CCTV-13 8M
+https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1,CCTV-13[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-13/1.m3u8
+#EXTINF:-1,CCTV-13[cctv.com]
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+#EXTINF:-1,凤凰中文[960x540]
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1,凤凰中文[540P]
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1,凤凰资讯[960x540]
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,凤凰资讯[540P]
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1,香港卫视[960x540]
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,CCTV-1[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-1/1.m3u8
+#EXTINF:-1,CCTV-2[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-2/1.m3u8
+#EXTINF:-1,CCTV-3[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-3/1.m3u8
+#EXTINF:-1,CCTV-4[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-4/1.m3u8
+#EXTINF:-1,CCTV-5[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-5/1.m3u8
+#EXTINF:-1,CCTV-6[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-6/1.m3u8
+#EXTINF:-1,CCTV-7[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-7/1.m3u8
+#EXTINF:-1,CCTV-8[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-8/1.m3u8
+#EXTINF:-1,CCTV-9[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-9/1.m3u8
+#EXTINF:-1,CCTV-10[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-10/1.m3u8
+#EXTINF:-1,CCTV-11[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-11/1.m3u8
+#EXTINF:-1,CCTV-12[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-12/1.m3u8
+#EXTINF:-1,CCTV-13[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-13/1.m3u8
+#EXTINF:-1,CCTV-13[cctv.new]
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+#EXTINF:-1,CCTV-14[南昌移动 8M]
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv14/1.m3u8
+#EXTINF:-1,CCTV-15[南昌移动1080P]
+http://117.169.124.149:8080/live/cctv-15/1.m3u8
+#EXTINF:-1,CCTV-16[南昌移动1080P]
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
+#EXTINF:-1,CCTV-16[南昌移动1080P]
+http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
+#EXTINF:-1,CCTV-17[南昌移动1080P]
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv17/1.m3u8
+
+#EXTINF:-1,CCTV16-4K
+https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+#EXTINF:-1,CCTV-4K
+https://live.v1.mk/api/bestv.php?id=cctv4k/15000000&http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+#EXTINF:-1,欢笑剧场4k
+https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
+#EXTINF:-1,爱上4K
+https://live.v1.mk/aishang/as4k
+#EXTINF:-1,苏州4K频道[2160P]
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
+#EXTINF:-1,CCTV-1 8M
+https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+#EXTINF:-1,CCTV-2 8M
+https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+#EXTINF:-1,CCTV-3 8M
+https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
+#EXTINF:-1,CCTV-4 8M
+https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+#EXTINF:-1,CCTV-5 8M
+https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
+#EXTINF:-1,CCTV-5+ 8M
+https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+#EXTINF:-1,CCTV-6 8M
+https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
+#EXTINF:-1,CCTV-7 8M
+https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+#EXTINF:-1,CCTV-8 8M
+https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+#EXTINF:-1,CCTV-9 8M
+https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
+#EXTINF:-1,CCTV-10 8M
+https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
+#EXTINF:-1,CCTV-11 8M
+https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
+#EXTINF:-1,CCTV-12 8M
+https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
+#EXTINF:-1,CCTV-13 8M
+https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1,CCTV-14 8M
+https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
+#EXTINF:-1,CCTV-15 8M
+https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1,CCTV-16 8M
+https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
+#EXTINF:-1,CCTV-17 8M
+https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1,江苏卫视 8M
+https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
+#EXTINF:-1,广西卫视 8M
+https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
+#EXTINF:-1,四川卫视 8M
+https://live.v1.mk/api/bestv.php?id=scwshd/8000000
+#EXTINF:-1,湖南卫视 8M
+https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
+#EXTINF:-1,浙江卫视 8M
+https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
+#EXTINF:-1,东方卫视 8M
+https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
+#EXTINF:-1,北京卫视 8M
+https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
+#EXTINF:-1,天津卫视 8M
+https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
+#EXTINF:-1,辽宁卫视 8M
+https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
+#EXTINF:-1,安徽卫视 8M
+https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
+#EXTINF:-1,黑龙江卫视 8M
+https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
+#EXTINF:-1,广东卫视 8M
+https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
+#EXTINF:-1,深圳卫视 8M
+https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
+#EXTINF:-1,湖北卫视 8M
+https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
+#EXTINF:-1,吉林卫视 8M
+https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
+#EXTINF:-1,山东卫视 8M
+https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
+#EXTINF:-1,江西卫视 8M
+https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
+#EXTINF:-1,河南卫视 8M
+https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
+#EXTINF:-1,河北卫视 8M
+https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
+#EXTINF:-1,甘肃卫视 8M
+https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
+#EXTINF:-1,重庆卫视 8M
+https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
+#EXTINF:-1,东南卫视 8M
+https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
+#EXTINF:-1,云南卫视 8M
+https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
+#EXTINF:-1,贵州卫视 8M
+https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
+#EXTINF:-1,海南卫视 8M
+https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+#EXTINF:-1,欢笑剧场 8M
+https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
+#EXTINF:-1,劲爆体育 8M
+https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+#EXTINF:-1,快乐垂钓 8M
+https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
+#EXTINF:-1,金鹰纪实 8M
+https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
+#EXTINF:-1,戏曲精选 8M
+https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
+#EXTINF:-1,上海第一财经 8M
+https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+#EXTINF:-1,上视新闻 8M
+https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+#EXTINF:-1,上海都市 8M
+https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
+#EXTINF:-1,上海纪实 8M
+https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+#EXTINF:-1,东方影视 8M
+https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+#EXTINF:-1,五星体育 8M
+https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1,上视外语 8M
+https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
+#EXTINF:-1,七彩戏剧 8M
+https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
+#EXTINF:-1,上海教育 8M
+https://live.v1.mk/api/bestv.php?id=setvhd/8000000
+#EXTINF:-1,全纪实 8M
+https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
+#EXTINF:-1,生活时尚 8M
+https://live.v1.mk/api/bestv.php?id=shss8m/8000000
+#EXTINF:-1,新视觉 8M
+https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
+#EXTINF:-1,游戏风云 8M
+https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
+#EXTINF:-1,热门综艺 8M
+https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
+#EXTINF:-1,超级体育 8M
+https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
+#EXTINF:-1,健康养生 8M
+https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
+#EXTINF:-1,百变课堂 8M
+https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
+#EXTINF:-1,看天下精选 8M
+https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
+#EXTINF:-1,华语影院 8M
+https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
+#EXTINF:-1,电竞天堂 8M
+https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
+#EXTINF:-1,青春动漫 8M
+https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1,宝宝动画 8M
+https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
+#EXTINF:-1,星光影院 8M
+https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
+#EXTINF:-1,谍战剧场 8M
+https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
+#EXTINF:-1,全球大片 8M
+https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
+#EXTINF:-1,热门剧场 8M
+https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
+#EXTINF:-1,陶瓷高清 8M
+https://live.v1.mk/api/bestv.php?id=taocihd/8000000
+#EXTINF:-1,中国教育-1 8M
+https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000
+#EXTINF:-1,中国教育-4 8M
+https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000
+#EXTINF:-1,卡酷少儿 8M
+https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
+#EXTINF:-1,纪实科教 8M
+https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
+#EXTINF:-1,茶频道 8M
+https://live.v1.mk/api/bestv.php?id=cpdhdavs8m/8000000
+#EXTINF:-1,足球高清 8M
+https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
+#EXTINF:-1,炫动卡通 8M
+https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
+#EXTINF:-1,东方财经 8M
+https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
+#EXTINF:-1,都市剧场 8M
+https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
+#EXTINF:-1,动漫秀场 8M
+https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
+#EXTINF:-1,法治天地 8M
+https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
+#EXTINF:-1,金色学堂 8M
+https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
+#EXTINF:-1,魅力足球 8M
+https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+
+#EXTINF:-1,4K60PSDR-H264-AAC测试
+http://159.75.85.63:5680/d/ad/h264/playad.m3u8
+#EXTINF:-1,4K60PHLG-HEVC-EAC3测试
+http://159.75.85.63:5680/d/ad/playad.m3u8
+
+#EXTINF:-1,全国风景总览
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黟县宏村月沼
+https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黟县宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黟县西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黟县西递半山亭俯瞰
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黟县卢村远眺
+https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,婺源江岭1
+https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,婺源江岭2
+https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黄山始信峰
+https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黄山梦笔生花
+https://gccncc.v.wscdns.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黄山西海大峡谷
+https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黄山光明顶
+https://gccncc.v.wscdns.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黄山信兴道
+https://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黄山平天矼
+https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,黄山飞来石
+https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,云台山红石硖
+https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,泰山主峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,泰山迎客松
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,泰山大观峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,泰山拱北石
+https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,泰山十八盘
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,泰山天街
+https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,云台山小寨沟
+https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,云台山百家岩
+https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,印象大红袍
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,武夷山大红袍茶园
+https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,张家界迷魂台
+https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,张家界水绕4门
+https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,张家界将军列队
+https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,张家界阿凡达悬浮山
+https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,凤凰古城
+https://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,凤凰古城南华山
+https://gccncc.v.wscdns.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,卢村远眺
+https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,宠村月沼
+https://gccncc.v.wscdns.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,少林寺广场
+https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,水长城镜头一
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,水长城镜头二
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,水长城镜头三
+https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,水长城镜头四
+https://gccncc.v.wscdns.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,狮子山鸟瞰古城
+https://gccncc.v.wscdns.com/gc/ljgcszsnkgc_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,远眺玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,大研花巷景观台
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,峨眉云海日出
+https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,远眺万佛顶
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,普贤菩萨像
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,乐山大佛全景
+https://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,悬空寺全景
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,恒宗
+https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,悬空寺侧景
+https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,天涯鸟瞰
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,天涯石
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,南天一柱
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,日月石
+https://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,雪乡大石碑
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,雪乡梦幻家园
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,观景台
+https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,嘉峪关长城
+https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,大水库
+https://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,ipanda成都
+http://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8
+#EXTINF:-1,ipanda都江堰
+http://gctxyc.liveplay.myqcloud.com/gc/ipanda1000_1/index.m3u8
+#EXTINF:-1,中央电视台中塔西
+https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,中央电视台中塔东
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,中央电视台中塔南
+https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,中央电视台中塔北
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
