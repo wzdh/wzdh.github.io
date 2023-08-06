@@ -1,0 +1,30 @@
+{
+  "request": [
+    {
+      "enable": true,
+      "name": "hCaptcha - redirect checkbox.js",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "https://newassets.hcaptcha.com/captcha/v1/\\w+/hcaptcha-checkbox.js",
+      "exclude": "",
+      "group": "重定向",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://cdn.jsdelivr.net/gh/LightAPIs/adblock_rules@master/hcaptcha-checkbox-mod.js"
+    },
+    {
+      "enable": true,
+      "name": "hCaptcha - redirect challenge.js",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "https?://newassets\\.hcaptcha\\.com/captcha/v1/\\w+/hcaptcha-challenge\\.js",
+      "exclude": "",
+      "group": "重定向",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://cdn.jsdelivr.net/gh/LightAPIs/adblock_rules@master/hcaptcha-challenge-mod.js"
+    }
+  ],
+  "receiveHeader": [],
+  "receiveBody": []
+}
