@@ -180,9 +180,9 @@ Linux网络优化加速一键脚本：https://github.com/chiakge/Linux-NetSpeed
 外贸SOHO笔记:Google Cloud Platform免费申请&一键搭建SSR & BBR加速教程
 https://www.wmsoho.com/google-cloud-platform-ssr-bbr-tutorial/
 
-秋水逸冰的BBR不好手：最好先运行BBR加速脚本，再安装shadowsocksR
+秋水逸冰的BBR不好用：最好先运行BBR加速脚本，再安装shadowsocksR
 1.sudo -i
 2.yum install -y wget
 3.wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh
 4../bbr.sh
-==========================================================================================================================
+
